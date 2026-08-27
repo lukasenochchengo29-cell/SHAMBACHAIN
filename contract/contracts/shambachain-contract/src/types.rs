@@ -1,4 +1,4 @@
-use soroban_sdk::{contracttype,Address, Env, String};
+use soroban_sdk::{contracttype,Address, String};
 
 // ----------- Credit Tier -----------
 #[contracttype]

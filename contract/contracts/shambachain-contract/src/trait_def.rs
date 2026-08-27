@@ -1,6 +1,6 @@
 use soroban_sdk::{Address, Env, String, Vec};
 use crate::error::ContractError;
-use crate::types::{FarmerProfile, LedgerEntry, EntryType, LoanApplication, AgentProfile, VerificationStatus};
+use crate::types::{FarmerProfile, LedgerEntry, EntryType, LoanApplication, AgentProfile};
 
 pub trait ShambaChainInterface {
 

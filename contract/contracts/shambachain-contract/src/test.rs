@@ -3,7 +3,7 @@
 use soroban_sdk::{testutils::{Address as _, Ledger, LedgerInfo}, Address, Env, String };
 
 
-use crate::{contract::{ShambaChain, ShambaChainClient}, types::{EntryType, LoanStatus, VerificationStatus}};
+use crate::{contract::{ShambaChain, ShambaChainClient}, types::{EntryType, VerificationStatus}};
 
 // -------- Test Helper -------------------
 struct  Setup<'a> {

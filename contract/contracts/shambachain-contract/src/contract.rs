@@ -697,8 +697,8 @@ impl ShambaChain {
         env:              &Env,
         farmer:           &Address,
         _current_entry:   &LedgerEntry,
-        total_h:          u32,
-        total_s:          u32,
+        _total_h:          u32,
+        _total_s:          u32,
     ) -> (u32, u32) {
         let counter: u64 = env.storage().persistent()
             .get(&DataKey::EntryCounter(farmer.clone())).unwrap_or(0);
