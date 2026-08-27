@@ -173,6 +173,13 @@ By building on Stellar, ShambaChain enables financial inclusion at scale while k
 - 🎨 UI: Modern dashboard (mobile-first design)
 
 ---
+## 👥 Team
+
+Developed with ❤️ by:
+
+[Lukas Enock] (https://github.com/lukasenochchengo29-cell)
+[Tracey Ayuma Isanya] (https://github.com/traceyuma)
+[Dennis Gitonga] (https://github.com/dennisgtz)
 
 ## 📂 Project Structure
 
@@ -185,10 +192,3 @@ By building on Stellar, ShambaChain enables financial inclusion at scale while k
 
 ---
 
-## 👥 Team
-
-Developed with ❤️ by:
-
-[Lukas Enock] (https://github.com/lukasenochchengo29-cell)
-[Tracey Ayuma Isanya] (https://github.com/traceyuma)
-[Dennis Gitonga] (https://github.com/dennisgtz)
