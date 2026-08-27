@@ -182,3 +182,13 @@ By building on Stellar, ShambaChain enables financial inclusion at scale while k
 ├── frontend/          # React + Vite web application
 ├── LICENSE            # License information
 └── README.md          # Project documentation
+
+---
+
+## 👥 Developers
+
+Developed with ❤️ by the ShambaChain Team:
+
+*   **Lukas Enock** ([@lukasenochchengo29-cell](https://github.com/lukasenochchengo29-cell))
+*   **Tracey Ayuma Isanya** ([@traceyuma](https://github.com/traceyuma))
+*   **Dennis Gitonga** ([@dennisgtz](https://github.com/dennisgtz))
