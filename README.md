@@ -26,11 +26,11 @@ Stellar Testnet
 
 Across Africa, millions of farmers remain financially excluded because:
 
-- No formal credit history  
-- Lack of verifiable income records  
-- High collateral requirements from lenders  
-- Slow and manual loan approval systems  
-- Limited access to insurance due to fraud risks  
+- No formal credit history
+- Lack of verifiable income records
+- High collateral requirements from lenders
+- Slow and manual loan approval systems
+- Limited access to insurance due to fraud risks
 
 As a result, farmers who feed nations are often locked out of financial systems.
 
@@ -82,30 +82,30 @@ All records are stored as **immutable blockchain transactions**.
 ### 📈 3. Shamba Score (Credit System)
 A dynamic credit score is generated based on:
 
-- Consistency of harvests  
-- Income stability over time  
-- Sales frequency  
-- Historical activity reliability  
+- Consistency of harvests
+- Income stability over time
+- Sales frequency
+- Historical activity reliability
 
 Farmers are categorized into tiers:
-- 🟢 Bronze Farmer  
-- 🔵 Silver Farmer  
-- 🟡 Gold Farmer 
+- 🟢 Bronze Farmer
+- 🔵 Silver Farmer
+- 🟡 Gold Farmer
 - 🟡 Platinum Farmer
 
 ---
 
 ### 🏦 4. Loans & Financing
-- Farmers request loans directly through the platform  
-- Lenders verify Shamba Score and on-chain history  
+- Farmers request loans directly through the platform
+- Lenders verify Shamba Score and on-chain history
 - Approved loans are disbursed instantly in **USDC via Stellar**
 
 ---
 
 ### 🛡️ 5. Insurance & Risk Assessment (Extension)
-- Insurers can assess farmer reliability using on-chain data  
-- Faster claim approvals  
-- Reduced fraud risk and manual verification  
+- Insurers can assess farmer reliability using on-chain data
+- Faster claim approvals
+- Reduced fraud risk and manual verification
 
 ---
 
@@ -132,11 +132,11 @@ Fraud damages reputation permanently, making honesty the most valuable strategy.
 
 ## 🌍 Why ShambaChain Matters
 
-- 🌾 Supports smallholder farmers (Africa’s food backbone)  
-- 💸 Unlocks access to fair credit and capital  
-- 🔐 Builds trust through transparent financial history  
-- ⚡ Enables instant global payments via Stellar  
-- 📊 Turns informal agriculture into a data-driven economy  
+- 🌾 Supports smallholder farmers (Africa’s food backbone)
+- 💸 Unlocks access to fair credit and capital
+- 🔐 Builds trust through transparent financial history
+- ⚡ Enables instant global payments via Stellar
+- 📊 Turns informal agriculture into a data-driven economy
 
 ---
 
