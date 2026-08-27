@@ -185,10 +185,10 @@ By building on Stellar, ShambaChain enables financial inclusion at scale while k
 
 ---
 
-## 👥 Developers
+## 👥 Team
 
-Developed with ❤️ by the ShambaChain Team:
+Developed with ❤️ by:
 
-*   **Lukas Enock** ([@lukasenochchengo29-cell](https://github.com/lukasenochchengo29-cell))
-*   **Tracey Ayuma Isanya** ([@traceyuma](https://github.com/traceyuma))
-*   **Dennis Gitonga** ([@dennisgtz](https://github.com/dennisgtz))
+[![Lukas Enock](https://img.shields.io/badge/Lukas_Enock-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukasenochchengo29-cell)
+[![Tracey Ayuma Isanya](https://img.shields.io/badge/Tracey_Ayuma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/traceyuma)
+[![Dennis Gitonga](https://img.shields.io/badge/Dennis_Gitonga-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dennisgtz)
