@@ -10,15 +10,17 @@ ShambaChain is a **blockchain-powered agricultural credit identity system** buil
 
 ### 🌐 Frontend
 
-https://shambachain-one.vercel.app
+https://shambachain-blond.vercel.app
 
 ### 🔗 Smart Contract (Testnet)
 
-`CDQXJR6D75ZK654NUW6GX75JK7DO4HCHL6XHAMOVMDZM4SE24PNNQEVF`
+`CBC4MNHSYJPV6W5RBQN33SUXB37R5ENPRIMXJ7EZ7WCY76HXB4DVXKKC`
 
 ### 🌍 Network
 
 Stellar Testnet
+
+---
 
 ## 🚀 Problem Statement
 
@@ -54,6 +56,8 @@ Farmers can log harvests, sales, and transactions on-chain, building a **trust-b
 - QR-based farmer identity verification
 - Multi-layer fraud prevention system
 - USDC-powered lending infrastructure
+
+---
 
 ## ⚙️ How It Works
 
@@ -124,6 +128,8 @@ Future integration with weather and satellite crop monitoring systems.
 ### Layer 5 — Economic Incentives
 Fraud damages reputation permanently, making honesty the most valuable strategy.
 
+---
+
 ## 🌍 Why ShambaChain Matters
 
 - 🌾 Supports smallholder farmers (Africa’s food backbone)  
@@ -143,6 +149,7 @@ It is:
 > A **decentralized agricultural credit infrastructure** that converts real-world farming activity into financial identity.
 
 ---
+
 ## 🌐 Why Stellar & Soroban
 
 ShambaChain leverages Stellar and Soroban to provide:
@@ -155,10 +162,12 @@ ShambaChain leverages Stellar and Soroban to provide:
 
 By building on Stellar, ShambaChain enables financial inclusion at scale while keeping transaction costs affordable for smallholder farmers.
 
+---
+
 ## 🖥️ Tech Stack
 
-- ⚛️ Frontend: React / Vite
-- 🌐 Blockchain: Stellar Network
+- ⚛️ Frontend: React / Vite / TypeScript
+- 🌐 Blockchain: Stellar Network (Soroban Smart Contracts)
 - 💰 Payments: USDC on Stellar
 - 🧾 Identity: Wallet-based Farmer ID system
 - 🎨 UI: Modern dashboard (mobile-first design)
@@ -169,174 +178,7 @@ By building on Stellar, ShambaChain enables financial inclusion at scale while k
 
 ```text
 .
-├── contract/
-├── frontend/
-├── README.md
-├── .gitignore
-├── Lisence
-├── README.md
-```
-
-## 🚀 Installation & Setup
-
-### Prerequisites
-
-```bash
-# Rust
-rustup update
-
-# WASM Target
-rustup target add wasm32v1-none
-
-# Stellar CLI
-cargo install --locked stellar-cli --features opt
-
-# Node.js v18+
-node --version
-```
-
-### Clone Repository
-
-```bash
-git clone https://github.com/ShambaChain/ShambaChain.git
-
-```
-```bash
-cd ShambaChain
-```
-
-### Smart Contract Setup
-
-```bash
-cd contract
-```
-Build the contract:
-
-```bash
-stellar contract build
-```
-
-Run tests:
-
-```bash
-cargo test
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-```
-
-Run: 
-
-```bash
-npm install
-```
-
-```bash
-npm run dev
-```
-
-Application runs at:
-
-```text
-http://localhost:5173
-```
-
-## 📸 Key Features Preview
-
-- Farmer Dashboard with Shamba Score  
-- Activity logging interface (harvest & sales)  
-- Loan request and approval flow  
-- Lender verification dashboard  
-- QR-based farmer identity system  
-
----
-
-## 🔥 Demo Flow (Hackathon Pitch)
-
-1. Farmer registers and gets a Shamba ID  
-2. Logs harvest → score increases  
-3. Lender views farmer profile  
-4. Loan request submitted  
-5. USDC loan approved and sent instantly  
-
-> End-to-end financial empowerment in under 2 minutes.
-
----
-
-## 🎯 Impact
-
-ShambaChain bridges the gap between:
-
-🌾 Agriculture → 💳 Finance → 🌍 Digital Identity
-
-It brings **real financial inclusion** to farmers who have been historically excluded from banking systems.
-
----
-
-## 🗺️ Roadmap
-
-### v1 (Current MVP)
-- Farmer onboarding
-- Activity logging
-- Shamba Score generation
-- Loan request flow
-- Stellar wallet integration
-
-### v1.1
-- Satellite verification
-- Weather oracle integration
-- Agent attestation portal
-
-### v2
-- Insurance marketplace
-- Cooperative dashboards
-- Multi-country expansion
-
-### v3
-- Mainnet deployment
-- AI-powered agricultural risk analysis
-- Pan-African farmer reputation network
-
-## 🏆 Vision
-
-> “A future where every farmer has a verifiable financial identity, and no good farmer is denied credit because they lack paperwork.”
-
----
-
-## 📌 Built For
-
-- Stellar Give Kenya Bootcamp  
-- Real-world financial inclusion innovation  
-- Web3 for social impact in Africa  
-
----
-
-## 🤝 Contribution
-
-This project is open for collaboration in:
-- DeFi for agriculture  
-- Identity systems  
-- Financial inclusion tools  
-
----
-
-## ⚡ Final Note
-
-ShambaChain is built with one goal:
-
-> To turn farming activity into financial freedom.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Author
-
-Developed by Lukas Enock.
+├── contract/          # Soroban smart contract source code
+├── frontend/          # React + Vite web application
+├── LICENSE            # License information
+└── README.md          # Project documentation
