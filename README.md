@@ -181,6 +181,7 @@ Developed with ❤️ by:
 - [Lukas Enock](https://github.com/lukasenochchengo29-cell)
 - [Tracey Ayuma Isanya](https://github.com/traceyuma)
 - [Dennis Gitonga](https://github.com/dennisgtz)
+- [Martin](https://github.com/martxrrr)
 
 ## 📂 Project Structure
 
